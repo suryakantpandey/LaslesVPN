@@ -5,7 +5,7 @@ function Navbar()
          <div className="navp">
                 <div > 
                     <a href='#'>
-                        <img src="src\assets\logo11.svg"  className="logo"/>
+                        <img src="assets\logo11.svg"  className="logo"/>
                     </a>
                 </div>
                 <div>

@@ -9,14 +9,14 @@ function Plans() {
             <div className='big-box'>
                 <div className='plan-box'>
                     <div className="box">
-                        <img src='src/assets/box.svg' className=' box-image' />
+                        <img src='assets/box.svg' className=' box-image' />
                         <br/>
                         <div className='box-text'>
                         <h2 className='box-heading'>Free Plan</h2>
-                        <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' />&nbsp;Unlimited Bandwidth</p>
-                            <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' />&nbsp;Encrypted Connection</p>
-                            <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' />&nbsp;No Traffic Logs</p>
-                            <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' />&nbsp;Works On all Device</p>
+                        <p className='box-content'><br/> <img src='assets/ticks.svg' className='tick' />&nbsp;Unlimited Bandwidth</p>
+                            <p className='box-content'><br/> <img src='assets/ticks.svg' className='tick' />&nbsp;Encrypted Connection</p>
+                            <p className='box-content'><br/> <img src='assets/ticks.svg' className='tick' />&nbsp;No Traffic Logs</p>
+                            <p className='box-content'><br/> <img src='assets/ticks.svg' className='tick' />&nbsp;Works On all Device</p>
                             <p className='box-content'><br/> &nbsp;</p>
                             <p className='box-content'><br/> &nbsp;</p>
                             <p className='box-content'><br/> &nbsp;</p>
@@ -31,15 +31,15 @@ function Plans() {
                 </div>
                 <div className='plan-box'>
                     <div className="box">
-                        <img src='src/assets/box.svg' className=' box-image' />
+                        <img src=' assets/box.svg' className=' box-image' />
                         <br />
                         <div className='box-text'>
                             <h2 className='box-heading'>Standard Plan</h2>
-                            <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' />&nbsp;Unlimited Bandwidth</p>
-                            <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' />&nbsp;Encrypted Connection</p>
-                            <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' />&nbsp;No Traffic Logs</p>
-                            <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' />&nbsp;Works On all Device</p>
-                            <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' />&nbsp;Connect Anywhere</p>
+                            <p className='box-content'><br/> <img src='assets/ticks.svg' className='tick' />&nbsp;Unlimited Bandwidth</p>
+                            <p className='box-content'><br/> <img src='assets/ticks.svg' className='tick' />&nbsp;Encrypted Connection</p>
+                            <p className='box-content'><br/> <img src='assets/ticks.svg' className='tick' />&nbsp;No Traffic Logs</p>
+                            <p className='box-content'><br/> <img src='assets/ticks.svg' className='tick' />&nbsp;Works On all Device</p>
+                            <p className='box-content'><br/> <img src='assets/ticks.svg' className='tick' />&nbsp;Connect Anywhere</p>
                             <p className='box-content'><br/> &nbsp;</p>
                             <p className='box-content'><br/> &nbsp;</p>
                         </div>
@@ -52,16 +52,16 @@ function Plans() {
                 </div>
                 <div className='plan-box'>
                     <div className="box">
-                        <img src='src/assets/box.svg' className=' box-image' />
+                        <img src=' assets/box.svg' className=' box-image' />
                         <br />
                         <div className='box-text'>
                             <h2 className='box-heading'>Premium Plan</h2>
-                            <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' />&nbsp;Unlimited Bandwidth</p>
-                            <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' />&nbsp;Encrypted Connection</p>
-                            <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' />&nbsp;No Traffic Logs</p>
-                            <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' />&nbsp;Works On all Device</p>
-                            <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' />&nbsp;Connect Anywhere</p>
-                            <p className='box-content'><br/> <img src='src/assets/ticks.svg' className='tick' /> &nbsp;Get New Features</p>
+                            <p className='box-content'><br/> <img src=' assets/ticks.svg' className='tick' />&nbsp;Unlimited Bandwidth</p>
+                            <p className='box-content'><br/> <img src=' assets/ticks.svg' className='tick' />&nbsp;Encrypted Connection</p>
+                            <p className='box-content'><br/> <img src=' assets/ticks.svg' className='tick' />&nbsp;No Traffic Logs</p>
+                            <p className='box-content'><br/> <img src=' assets/ticks.svg' className='tick' />&nbsp;Works On all Device</p>
+                            <p className='box-content'><br/> <img src=' assets/ticks.svg' className='tick' />&nbsp;Connect Anywhere</p>
+                            <p className='box-content'><br/> <img src=' assets/ticks.svg' className='tick' /> &nbsp;Get New Features</p>
                             <p className='box-content'><br/> &nbsp;</p>
                         </div>
                         <br/>

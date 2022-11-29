@@ -3,7 +3,7 @@ import './Sponsers.css';
 function Sponsers()
 {
      return(
-        <div><img src='src/assets/sponsers.svg' className='Sponser'/></div>
+        <div><img src='assets/sponsers.svg' className='Sponser'/></div>
         
      )
 }

@@ -5,7 +5,7 @@ function Acheivement()
      <div className='acheive'>
         <div className='box-a'>
             <p className='para'>
-            <img src='src\assets\usericon.svg' className='acheive-image'/>
+            <img src='assets\usericon.svg' className='acheive-image'/>
             <span className='bb'>
             <b className='bb'>90+</b>
             <p className='bbb'> Users</p>
@@ -14,7 +14,7 @@ function Acheivement()
         </div>
         <div className='box-a'>
             <p className='para'>
-            <img src='src\assets\location.svg' className='acheive-image'/>
+            <img src='assets\location.svg' className='acheive-image'/>
             <span className='bb'>
             <b className='bb'>30+</b>
             <p className='bbb'>Locations</p>
@@ -23,7 +23,7 @@ function Acheivement()
         </div>
         <div className='box-a box-wb'>
             <p className='para'>
-            <img src='src\assets\servericon.svg' className='acheive-image'/>
+            <img src='assets\servericon.svg' className='acheive-image'/>
             <span className='bb'>
             <b className='bb'>50+</b>
             <p className='bbb'>Servers</p>

@@ -14,7 +14,7 @@ function Jumbotron()
             <div ><button type = "Button"   className='get-started'>Get Started</button></div>
             </div>
             <div>
-             <img src='src\assets\illustration1.svg' className="jumbotron-image"/>
+             <img src='assets\illustration1.svg' className="jumbotron-image"/>
             </div>
         </div>
     )
