@@ -1,0 +1,15 @@
+.footer-content
+{
+    /* display: flex; */
+    color: #4F5665 ;
+    line-height: 2rem;
+}
+.logo
+{
+     padding:0rem  1rem 1rem 1rem; 
+}
+.copyright
+{
+     color: #4F5665;
+     opacity: 0.4;
+}

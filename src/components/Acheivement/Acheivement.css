@@ -1,0 +1,45 @@
+.acheive
+{
+    padding-top: 6%;
+    margin-bottom: 5rem;
+    /* height: fit-content; */
+    align-items: center;
+    display: flex;
+    /* margin: auto; */
+    justify-content: space-between;
+    /* padding: 1rem 1rem 1rem 1rem ; */
+}
+.acheive-image
+{
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    display: flex;
+}
+.para
+{
+     /* align-items: center; */
+     margin: auto;
+     display: flex;
+     padding: auto;
+
+}
+.bb{
+    padding: 0.7rem;
+    margin: auto;
+    font-size: large;
+}
+.bbb{
+    padding: 0.7rem;
+    margin: auto;
+    font-size: medium;
+}
+.box-a {
+    border-right: 2px solid #EEEFF2;
+    padding:1rem;
+    padding-right: 5rem; 
+    color: black;
+}
+.box-wb{
+    border: none;
+}

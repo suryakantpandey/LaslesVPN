@@ -1,0 +1,32 @@
+.feature{
+    margin-top: 5rem;
+    margin: auto;
+    display: flex;
+    /* background-color: #000; */
+    color: rgb(17, 2, 2);
+    /* padding: 2rem; */
+    border-radius: .3rem;
+}
+.feature-text{
+    font-size: 150%;
+    color:#0B132A;
+    padding-left: 5rem ;
+}
+.feature-image{
+    align-content:flex-start;
+    display: flex;
+    width: 40%;
+    height: 70%;
+    border-radius: .3rem;
+}
+.feature-content{
+    font-size: medium;
+    color: #4F5665;
+}
+.feature-points{
+    display: flex;
+    padding: auto;
+    margin: auto;
+    margin-left: 1rem;
+    align-items: center;
+}

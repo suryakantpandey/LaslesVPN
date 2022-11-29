@@ -1,0 +1,91 @@
+.navp {
+    padding-right: 2%;
+    /* height: fit-content; */
+    align-items: center;
+    display: flex;
+    margin: auto;
+    padding-top: 1.5rem;
+  }
+  .logo {
+    margin-right: auto;
+    /* padding-left: 10rem; */
+    height: 2.5rem !important;
+    will-change: filter;
+  }
+  .logo:hover {
+    filter: drop-shadow(0 0 2em #646cffaa);
+  }
+  .logo.react:hover {
+    filter: drop-shadow(0 0 2em #61dafbaa);
+  }
+  .navbar1
+  {
+     display: flex;
+     list-style-type: none;
+     
+     justify-content: space-between;
+     gap:2rem;
+     /* padding-left: 5rem;
+     padding-right: 4rem; */
+     margin: auto;
+  }
+  .nav-link{
+    text-decoration: solid;
+    color: #4f5665;
+    will-change: filter;
+    font-weight: 300;
+  }
+  .nav-link:hover {
+    filter: drop-shadow(0 0 3em #646cffaa);
+  }
+  .nav-link.react:hover {
+    filter: drop-shadow(0 0 3em #61dafbaa);
+  }
+  .header-right
+  {
+     display: flex;
+     /* justify-content: space-between; */
+     /* gap: 2rem; */
+     align-items: right !important;
+     /* padding: 2rem; */
+     /* margin-left: 5rem; */
+     justify-content: space-around;
+  }
+  .container
+  {
+    max-width: 1140px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+  }
+  .sign-in-btn
+  {
+    
+    color:black;
+    font-weight: bold !important;
+    text-decoration: solid;
+    border: none;
+    background-color: white;
+    /* border-radius: 0.5rem; */
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  .sign-up-btn
+  {
+      color: #F53855;
+      font-weight: bold !important;
+      border-width: 2px !important;
+      border-color: #F53855;
+      background-color: white;
+      border-radius: 10rem !important;
+      text-decoration: solid;
+      padding: 1rem 3.5rem;
+      /* font-weight: 500; */
+      cursor: pointer;
+      font-size: 1rem;
+  }
+

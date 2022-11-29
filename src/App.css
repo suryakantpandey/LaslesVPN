@@ -1,0 +1,17 @@
+
+
+.card {
+  /* max-width: auto; */
+    /* width: 100vw; */
+    margin-left: auto;
+    border-radius: 2rem;
+    margin-right: auto;
+    background-color: #FFFFFF;
+    padding-left: 10%;
+    padding-right: 10%;
+    /* display: flex; */
+}
+
+.read-the-docs {
+  color: #888;
+}
